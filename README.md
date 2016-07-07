@@ -1,2 +1,1 @@
-# LinuxVMCentOS
-Linux VM CentOS
+This template allows you to deploy a simple Linux CentOS VM using a few different options for the CentOS Linux version, using the latest patched version. This will deploy in Central US on a A1 VM Size.
