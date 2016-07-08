@@ -1,4 +1,4 @@
-<a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/jmillangithub/LinuxVMCentOS/LinuxVirtualMachine.json" target="_blank">
+<a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/jmillangithub/LinuxVMCentOS/blob/master/LinuxVirtualMachine.json" target="_blank">
   <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
